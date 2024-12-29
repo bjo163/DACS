@@ -1,4 +1,4 @@
-# Digital Human Intelligent Dialogue System - Linly-Talker — 'Interactive Dialogue with Your Virtual Self'
+# Digital Human Intelligent Dialogue System  — 'Interactive Dialogue with Your Virtual Self'
 
 <div align="center">
 <h1>Linly-Talker WebUI</h1>
